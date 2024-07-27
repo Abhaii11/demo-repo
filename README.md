@@ -6,3 +6,7 @@
 
 whatch me instagram
 plz
+
+##local 
+
+open the html in browers
